@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:07.10.23
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -81,7 +81,9 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![Alt text](<Screenshot (4).png>)
 
+![Alt text](<screenshot (45).png.png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
